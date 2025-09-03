@@ -19,6 +19,8 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 
 # RenderDragon Shader List
 
+#By Dominokorean
+
 This is a GitHub repository created to prevent downloading fake shaders and to help you find reliable shader packs.  
 
 If you encounter any issues with the document, please use the [**Issues**](https://github.com/DominoKorean/Render-dragon-shader-list/issues).  
